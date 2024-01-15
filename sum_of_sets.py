@@ -48,6 +48,7 @@ def bubble_sort(list):
 
 sorted_list = bubble_sort(comb_list)
 print(sorted_list)
+
 # Step 3: remove duplicates
 
 
